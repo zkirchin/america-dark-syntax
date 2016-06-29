@@ -1,0 +1,19 @@
+{
+  "name": "america-dark-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Make your code great again. ",
+  "keywords": [
+    "america",
+    "patriotic",
+    "dark",
+    "red",
+    "white",
+    "blue"
+  ],
+  "repository": "https://github.com/zkirchin/america-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
